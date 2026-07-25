@@ -13,10 +13,16 @@ As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg,
 ## Testes de prompts
 
 * Quais são os 3 pilares fundamentais da educação financeira?
-  Os três pilares fundamentais da educação financeira, frequentemente descritos nas fontes como um "tripé" ou "tripezinho", são as habilidades de ganhar, poupar e multiplicar dinheiro. Para que uma pessoa tenha inteligência financeira plena, ela precisa desenvolver essas três competências de forma equilibrada, pois, se uma "perninha" do tripé faltar, a estrutura desaba.
+  \Os três pilares fundamentais da educação financeira, frequentemente descritos nas fontes como um "tripé" ou "tripezinho", são as habilidades de ganhar, poupar e multiplicar dinheiro. Para que uma pessoa tenha inteligência financeira plena, ela precisa desenvolver essas três competências de forma equilibrada, pois, se uma "perninha" do tripé faltar, a estrutura desaba.
 
 * Qual  a melhor maneira de conseguir juntar dinheiro de forma rápida?
-  De acordo com as fontes, a melhor e mais rápida maneira de juntar dinheiro não é através de investimentos milagrosos, mas sim pelo pilar do ganhar dinheiro, especificamente através da renda extra combinada com uma redução drástica de gastos.
+  \De acordo com as fontes, a melhor e mais rápida maneira de juntar dinheiro não é através de investimentos milagrosos, mas sim pelo pilar do ganhar dinheiro, especificamente através da renda extra combinada com uma redução drástica de gastos.
+
+* Quais são as melhores ideias de renda extra para iniciantes?\
+  De acordo com as fontes, a renda extra é a turbina necessária para quem quer mudar de vida rapidamente, especialmente para iniciantes que ganham pouco e não têm onde cortar gastos. Eduardo Feldberg (o Primo Pobre) enfatiza que "renda extra não é coisa de pobre, é coisa de gente inteligente" e que praticamente todos os milionários mantêm diversas fontes de receita.\
+  Exemplos:\
+  Vendas Simples e Diretas (Baixo Custo): Doces no Trabalho; Revendedor de produtos de beleza; Desapego de objetos; Alimentos caseiros.\
+  \
 
 
 ## Miniguia
