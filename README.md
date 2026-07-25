@@ -19,7 +19,7 @@ As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg,
   De acordo com as fontes, a melhor e mais rápida maneira de juntar dinheiro não é através de investimentos milagrosos, mas sim pelo pilar do ganhar dinheiro, especificamente através da renda extra combinada com uma redução drástica de gastos.
 
 * Quais são as melhores ideias de renda extra para iniciantes?\
-  De acordo com as fontes, a renda extra é a turbina necessária para quem quer mudar de vida rapidamente, especialmente para iniciantes que ganham pouco e não têm onde cortar gastos. Eduardo Feldberg (o Primo Pobre) enfatiza que "renda extra não é coisa de pobre, é coisa de gente inteligente" e que praticamente todos os milionários mantêm diversas fontes de receita.\
+  De acordo com as fontes, a renda extra é a turbina necessária para quem quer mudar de vida rapidamente, especialmente para iniciantes que ganham pouco e não têm onde cortar gastos. Eduardo Feldberg (o Primo Pobre) enfatiza que "renda extra não é coisa de pobre, é coisa de gente inteligente" e que praticamente todos os milionários mantêm diversas fontes de receita.
   
   Exemplos:
   * Vendas Simples e Diretas (Baixo Custo): Doces no Trabalho; Revendedor de produtos de beleza; Desapego de objetos; Alimentos caseiros.
