@@ -95,5 +95,12 @@ As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg,
 * Liste ideias de renda extra com baixa barreira de entrada (vendas, serviços e aplicativos) que podem gerar um fluxo adicional de pelo menos R$ 600,00 mensais.
 * Por que a renda extra é considerada a 'turbina' necessária para quem ganha pouco e como evitar o erro de 'subir o degrau' do padrão de vida ao aumentar os ganhos?
 * Quais são os quatro filtros metodológicos para escolher onde guardar a reserva de emergência (segurança, liquidez, FGC e rendimento)?
-* Porque a metodologia sugere uma meta inicial praticamente de R$3.000,00 para a reserva em vez dos teóricos seis meses de custo de vida?
+* Porque a metodologia sugere uma meta inicial prática de R$3.000,00 para a reserva em vez dos teóricos seis meses de custo de vida?
+* Explique como a falta de uma reserva financeira alimenta o 'ciclo da desgraça', forçando o indivíduo a contrair novas dívidas diante de qualquer imprevisto.
+* Descreva a divisão recomendada de portfólio, focando na predominância de Renda Fixa (80-90%) e o papel dos Fundos Imobiliários (FIIs) na geração de renda passiva isenta.
+* Como o hábito de investir pequenos valores mensalmente se transforma em uma 'bola de neve' positiva ao longo de 10 a 20 anos?
+* Diferencie os três degraus da liberdade financeira: autonomia, liberdade e independência passiva.
+* Como aplicar o princípio de 'viver um degrau abaixo' para garantir que o aumento da renda seja destinado à construção de patrimônio e não apenas ao consumo?
+* Utilizando uma planilha de organização, como identificar e eliminar gastos 'invisíveis' e supérfluos que corroem o orçamento?
+* 
 
