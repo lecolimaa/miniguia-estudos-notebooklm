@@ -86,7 +86,14 @@ As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg,
 
 ## Prompts Reutilizáveis para futuras Revisões do Tema
 
-* Explique detalhadamente as três 'perninhas' do tripé da educação financeira (ganhar, poupar e multiplicar) e por que a ausência de uma delas compromete a estrutura financeira de um indivíduo.\
-* Quais são as principais diferenças comportamentais entre o 'pobre inteligente' e o 'pobre burro', especialmente no que diz respeito ao consumo de bens que depreciam e à retenção de patrimônio?\
-* Analise o conceito de que a ostentação é a forma mais imbecil de gastar dinheiro e como o desejo de impressionar terceiros atrasa o enriquecimento.\
+* Explique detalhadamente as três 'perninhas' do tripé da educação financeira (ganhar, poupar e multiplicar) e por que a ausência de uma delas compromete a estrutura financeira de um indivíduo.
+* Quais são as principais diferenças comportamentais entre o 'pobre inteligente' e o 'pobre burro', especialmente no que diz respeito ao consumo de bens que depreciam e à retenção de patrimônio?
+* Analise o conceito de que a ostentação é a forma mais imbecil de gastar dinheiro e como o desejo de impressionar terceiros atrasa o enriquecimento.
+* Quais são os passos fundamentais para realizar um 'raio-x' honesto da situação financeira e como priorizar o pagamento das dívidas com juros mais altos?
+* Descreva o conceito do 'Ano do Cão', focando no período de esforço extremo, sacrifício temporário de lazer e disciplina rígida para quitar passivos.
+* Como funciona a matemática da amortização extraordinária em financiamentos imobiliários e de que forma ela anula os juros compostos das parcelas futuras?
+* Liste ideias de renda extra com baixa barreira de entrada (vendas, serviços e aplicativos) que podem gerar um fluxo adicional de pelo menos R$ 600,00 mensais.
+* Por que a renda extra é considerada a 'turbina' necessária para quem ganha pouco e como evitar o erro de 'subir o degrau' do padrão de vida ao aumentar os ganhos?
+* Quais são os quatro filtros metodológicos para escolher onde guardar a reserva de emergência (segurança, liquidez, FGC e rendimento)?
+* Porque a metodologia sugere uma meta inicial praticamente de R$3.000,00 para a reserva em vez dos teóricos seis meses de custo de vida?
 
