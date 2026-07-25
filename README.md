@@ -43,6 +43,19 @@ As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg,
 
 ## Miniguia
 
+# Resumo Estruturado – Educação Financeira segundo Eduardo Feldberg (Primo Pobre)
+
+| **Eixo**                                            | **Principais conceitos**                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Tripé da Educação Financeira**                 | **Ganhar dinheiro:** desenvolver habilidades e buscar renda extra. <br> **Poupar (gastar com inteligência):** viver abaixo do padrão de renda para acumular patrimônio. <br> **Multiplicar o dinheiro:** investir para gerar renda passiva por meio dos juros compostos.                                                                                |
+| **2. Saneamento de Dívidas e "Ano do Cão"**         | **Diagnóstico financeiro:** listar todas as dívidas e priorizar as de juros mais altos. <br> **Ano do Cão:** período de 6 a 12 meses de trabalho intenso, renda extra e redução de gastos para quitar dívidas rapidamente. <br> **Amortização extraordinária:** realizar pagamentos adicionais para reduzir o saldo devedor e diminuir os juros totais. |
+| **3. Reserva de Emergência ("Mureta de Proteção")** | Objetivo de evitar novas dívidas diante de imprevistos. <br> **Meta inicial:** R$ 3.000,00 (idealmente, seis meses de despesas). <br> **Características:** segurança, liquidez diária e baixo risco. <br> **Aplicações indicadas:** Tesouro Selic, CDBs com liquidez diária e investimentos protegidos pelo FGC.                                        |
+| **4. Mentalidade e Comportamento Financeiro**       | **Pobre inteligente:** prioriza investimentos e construção de patrimônio. <br> **Pobre burro:** aumenta o consumo conforme a renda cresce. <br> **Evitar a ostentação:** consumir apenas para impressionar compromete o patrimônio. <br> **Educação financeira:** estudar é essencial para tomar boas decisões e evitar erros financeiros.              |
+| **5. Estratégia de Investimentos**                  | Priorizar a preservação do patrimônio. <br> **80% a 90% em renda fixa:** Tesouro Selic, CDBs, LCI e LCA. <br> **10% a 20% em renda variável:** principalmente FIIs. <br> **Criptomoedas:** pequena parcela da carteira, com foco em diversificação e longo prazo.                                                                                       |
+| **6. Renda Extra: A Turbina da Prosperidade**       | Utilizar fontes adicionais de renda para acelerar a construção do patrimônio. <br> **Exemplos:** venda de produtos, prestação de serviços, trabalho por aplicativos, aluguel de espaços e venda de itens sem uso.                                                                                                                                       |
+| **Síntese da Metodologia**                          | **1.** Eliminar as dívidas. <br> **2.** Aumentar a renda. <br> **3.** Controlar os gastos e viver abaixo do padrão de renda. <br> **4.** Construir uma reserva de emergência. <br> **5.** Investir de forma conservadora e consistente. <br> **6.** Construir patrimônio para gerar renda passiva e alcançar a independência financeira.                |
+
+
 
 # Glossário de Educação Financeira – Eduardo Feldberg (Primo Pobre)
 
@@ -69,4 +82,11 @@ As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg,
 | **Tripé da Educação Financeira**               | Conjunto das três habilidades essenciais para construir riqueza: ganhar dinheiro, poupar (ou gastar com inteligência) e multiplicar o patrimônio por meio dos investimentos.                                                                            |
 | **Vitimismo Financeiro**                       | Postura de atribuir exclusivamente a fatores externos a responsabilidade pela própria situação financeira, deixando de agir para transformá-la.                                                                                                         |
 | **Viver um Degrau Abaixo**                     | Princípio de manter um padrão de vida inferior à renda disponível, permitindo economizar, investir e construir patrimônio de forma consistente.                                                                                                         |
+
+
+## Prompts Reutilizáveis para futuras Revisões do Tema
+
+* Explique detalhadamente as três 'perninhas' do tripé da educação financeira (ganhar, poupar e multiplicar) e por que a ausência de uma delas compromete a estrutura financeira de um indivíduo.\
+* Quais são as principais diferenças comportamentais entre o 'pobre inteligente' e o 'pobre burro', especialmente no que diz respeito ao consumo de bens que depreciam e à retenção de patrimônio?\
+* Analise o conceito de que a ostentação é a forma mais imbecil de gastar dinheiro e como o desejo de impressionar terceiros atrasa o enriquecimento.\
 
