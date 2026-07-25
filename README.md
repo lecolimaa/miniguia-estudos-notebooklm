@@ -11,7 +11,7 @@ O contexto escolhido foi sobre o assunto de finanças, na qual o conceito princi
 As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg, criador do canal "Primo Pobre", focada especialmente na emancipação das classes de baixa renda. O conteúdo enfatiza o "Ano do Cão", um período de sacrifício e renda extra essencial para quitar dívidas, formar uma reserva de emergência de ao menos R$ 3.000,00 e iniciar investimentos. As estratégias detalhadas incluem a amortização acelerada de financiamentos imobiliários e a diversificação de receitas por meio de atividades como vendas e serviços freelancer. Feldberg defende que a mudança de vida exige disciplina comportamental, priorizando a segurança financeira em vez de gastos com status. O objetivo final é transformar o "pobre inteligente" em um investidor consciente, que utiliza juros compostos para garantir paz e independência futura.
 
 1 - AULA DE EDUCAÇÃO FINANCEIRA: 
-:page_facing_up:[Link](https://www.youtube.com/watch?v=VLypOc9mdX8)
+:page_facing_up: [Link](https://www.youtube.com/watch?v=VLypOc9mdX8) :star:
 
 2 - Endividamento recorde: Primo Pobre ensina 6 passos para sair das dívidas sem surtar:
 [Link](https://sonharemorar.mrv.com.br/endividamento-recorde-primo-pobre-ensina-5-passos-para-sair-das-dividas-sem-surtar/)
