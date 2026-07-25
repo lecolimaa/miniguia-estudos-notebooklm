@@ -4,7 +4,7 @@ Projeto realizado para estudo na plataforma DIO.me, com intuito de criar um cade
 
 ## Objetivos 
 
-O contexto escolhido foi sobre o assunto de finanças, na qual o conceito principal é de como as pessoas podem sair do Endividamento à Prosperidade, tendo como auxílio (dicas) do Eduardo Feldberg, o famoso "Primo Pobre", que possui um canal no youtube, onde ele faz diversos vídeos que ajudam as pessoas que estão endividadas a sairem da estaca zero e consiga melhorar de vida com mudança de mentalidade. Além disso, ele já lançou um livro em julho de 2023 "Deixe de ser pobre: Os segredos para você sair da pindaíba e conquistar sua independência financeira".  
+O contexto escolhido foi sobre o assunto de finanças, na qual o conceito principal é de como as pessoas podem sair do Endividamento à Prosperidade, tendo como auxílio (dicas) do Eduardo Feldberg, o famoso "Primo Pobre", que possui um canal no youtube, onde ele faz diversos vídeos que ajudam as pessoas que estão endividadas a sairem da estaca zero e consiga melhorar de vida com mudança de mentalidade. Além disso, ele já lançou um livro em julho de 2023 "Deixe de ser pobre: Os segredos para você sair da pindaíba e conquistar sua independência financeira", onde ele conta sobre educação financeira de forma simples. 
 
 ## Fontes
 
