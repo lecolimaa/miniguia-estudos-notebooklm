@@ -25,7 +25,7 @@ As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg,
   * Vendas Simples e Diretas (Baixo Custo): Doces no Trabalho; Revendedor de produtos de beleza; Desapego de objetos; Alimentos caseiros.\
   * Serviços de Baixa Complexidade: Churrasqueiro de fim de semana; Garçom; Limpeza de piscina.\
   * Aplicativos e Economia Compartilhada: Entregador de ifood/99food; Motorista de aplicativo (uber/99).
-  * 
+    
   
   
 
