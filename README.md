@@ -41,7 +41,7 @@ As fontes apresentam a metodologia de educação financeira de Eduardo Feldberg,
   
   
 
-## Miniguia
+## Miniguia de Estudo
 
 # Resumo Estruturado – Educação Financeira segundo Eduardo Feldberg (Primo Pobre)
 
